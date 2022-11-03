@@ -12,4 +12,5 @@ categories:
 tags: 
   - MSFS
   - Flight Simulator
+  - Microsoft
 ---
